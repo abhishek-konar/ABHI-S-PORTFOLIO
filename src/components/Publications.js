@@ -28,7 +28,7 @@ function Publications() {
 										<i className='fa-brands fa-researchgate fa-4x ps-5 mt-4'></i>
 									</Col>
 									<Col>
-										<p className='display-3 ps-5 mt-4'>8.7</p>
+										<p className='display-3 ps-5 mt-4'>32.3</p>
 									</Col>
 								</Row>
 							</Card>
@@ -41,7 +41,7 @@ function Publications() {
 										<i className='fa-solid fa-book-open fa-4x ps-5 mt-4'></i>
 									</Col>
 									<Col>
-										<p className='display-3 ps-5 mt-4'>2</p>
+										<p className='display-3 ps-5 mt-4'>3</p>
 									</Col>
 								</Row>
 							</Card>

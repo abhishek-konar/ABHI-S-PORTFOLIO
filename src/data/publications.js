@@ -18,6 +18,16 @@ const publications = [
         "issueNumber": "1",
         "pageNumber": "82-86",
         "doiNumber": "https://doi.org/10.22271/plants.2022.v10.i1b.1365"
+    },
+    {
+        "title": "Solanum Xanthocarpum-A Critical Approach to the Lesser Known Aspects of the Herb",
+        "journalName": "International Journal of Scientific Research in Biological Sciences",
+        "authorName": "Abhishek Konar, Reshmi Chatterjee",
+        "year": "2022",
+        "volumeNumber": "9",
+        "issueNumber": "5",
+        "pageNumber": "52-56",
+        "doiNumber": "https://www.researchgate.net/profile/Abhishek-Konar/publication/365185246_Solanum_Xanthocarpum-A_Critical_Approach_to_the_Lesser_Known_Aspects_of_the_Herb/links/636936c137878b3e878dc5db/Solanum-Xanthocarpum-A-Critical-Approach-to-the-Lesser-Known-Aspects-of-the-Herb.pdf"
     }
 ]
 
